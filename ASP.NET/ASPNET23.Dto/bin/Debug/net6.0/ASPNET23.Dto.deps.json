@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ASPNET23.Dto/1.0.0": {
+        "runtime": {
+          "ASPNET23.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASPNET23.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

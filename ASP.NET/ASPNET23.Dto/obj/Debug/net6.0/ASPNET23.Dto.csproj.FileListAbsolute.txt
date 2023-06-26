@@ -1,0 +1,12 @@
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\bin\Debug\net6.0\ASPNET23.Dto.deps.json
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\bin\Debug\net6.0\ASPNET23.Dto.dll
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\bin\Debug\net6.0\ASPNET23.Dto.pdb
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\obj\Debug\net6.0\ASPNET23.Dto.csproj.AssemblyReference.cache
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\obj\Debug\net6.0\ASPNET23.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\obj\Debug\net6.0\ASPNET23.Dto.AssemblyInfoInputs.cache
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\obj\Debug\net6.0\ASPNET23.Dto.AssemblyInfo.cs
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\obj\Debug\net6.0\ASPNET23.Dto.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\obj\Debug\net6.0\ASPNET23.Dto.dll
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\obj\Debug\net6.0\refint\ASPNET23.Dto.dll
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\obj\Debug\net6.0\ASPNET23.Dto.pdb
+C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Dto\obj\Debug\net6.0\ref\ASPNET23.Dto.dll

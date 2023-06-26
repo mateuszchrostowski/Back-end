@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ASPNET23.Model.Entities.Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Category list</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="row">
+    <div class="col-sm-12">
+        <label class="control-label">Kategoria</label>
+        <select class="form-control" asp-items="ViewBag.Categories">
+            <option></option>
+        </select>
+    </div>
+    <div class="col-sm-12 col-md-4 mb-3">
+        <input id="search" type="search" class="form-control" placeholder="Podaj nazwę kategorii" />
+        <button class="btn-primary" onclick="onSearch()">Szukaj</button>
+    </div>
+</div>
+
+<div id="content" class="row">
+@{
+    await Html.RenderPartialAsync("_CategoriesListPartial", Model);
+}
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        function onSearch() {
+            const text = $("#search").val();
+            const url = `/Categories/Search?text=${text}`;
+
+            $.ajax({
+                url: url,
+                contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                type: 'GET',
+                dataType: 'html',
+                success: function(result) {
+                    $("#content").html(result);
+                },
+                error: function(req, status) {
+                    console.log("error")
+                }
+            });
+        }
+    </script>
+}
