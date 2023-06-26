@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.API\\ASPNET23.API.csproj": {}
+    "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.API\\ASPNET23.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.API\\ASPNET23.API.csproj": {
+    "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.API\\ASPNET23.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.API\\ASPNET23.API.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.API\\ASPNET23.API.csproj",
         "projectName": "ASPNET23.API",
-        "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.API\\ASPNET23.API.csproj",
+        "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.API\\ASPNET23.API.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.API\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\ASPNET23.Dto.csproj": {
-                "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\ASPNET23.Dto.csproj"
+              "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\ASPNET23.Dto.csproj": {
+                "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\ASPNET23.Dto.csproj"
               },
-              "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj": {
-                "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj"
+              "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj": {
+                "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj"
               },
-              "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Repository\\ASPNET23.Repository.csproj": {
-                "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Repository\\ASPNET23.Repository.csproj"
+              "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Repository\\ASPNET23.Repository.csproj": {
+                "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Repository\\ASPNET23.Repository.csproj"
               }
             }
           }
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\ASPNET23.Dto.csproj": {
+    "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\ASPNET23.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\ASPNET23.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\ASPNET23.Dto.csproj",
         "projectName": "ASPNET23.Dto",
-        "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\ASPNET23.Dto.csproj",
+        "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\ASPNET23.Dto.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -165,14 +165,14 @@
         }
       }
     },
-    "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj": {
+    "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj",
         "projectName": "ASPNET23.Model",
-        "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj",
+        "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -245,14 +245,14 @@
         }
       }
     },
-    "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Repository\\ASPNET23.Repository.csproj": {
+    "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Repository\\ASPNET23.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Repository\\ASPNET23.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Repository\\ASPNET23.Repository.csproj",
         "projectName": "ASPNET23.Repository",
-        "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Repository\\ASPNET23.Repository.csproj",
+        "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Repository\\ASPNET23.Repository.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Repository\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -274,8 +274,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj": {
-                "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj"
+              "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj": {
+                "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj"
               }
             }
           }

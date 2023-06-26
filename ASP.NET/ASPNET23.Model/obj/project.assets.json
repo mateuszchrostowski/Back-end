@@ -3690,11 +3690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj",
+      "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj",
       "projectName": "ASPNET23.Model",
-      "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj",
+      "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj",
       "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\obj\\",
+      "outputPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

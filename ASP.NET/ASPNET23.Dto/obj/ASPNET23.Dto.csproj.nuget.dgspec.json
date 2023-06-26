@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\ASPNET23.Dto.csproj": {}
+    "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\ASPNET23.Dto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\ASPNET23.Dto.csproj": {
+    "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\ASPNET23.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\ASPNET23.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\ASPNET23.Dto.csproj",
         "projectName": "ASPNET23.Dto",
-        "projectPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\ASPNET23.Dto.csproj",
+        "projectPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\ASPNET23.Dto.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Dto\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

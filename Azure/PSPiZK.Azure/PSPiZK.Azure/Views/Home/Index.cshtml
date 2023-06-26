@@ -1,0 +1,40 @@
+﻿@model IEnumerable<BlobObject>
+@inject IConfiguration Configuration
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>
+    Azure App v2 @Configuration["Environment"]
+</h2>
+<div class="container" style="padding-top: 24px">
+    <div class="row">
+        <div class="col-sm-8">
+            @using(Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <input type="file" name="file" id="upload" style="display:none" onchange="$('#submit').click();"/>
+                <input type="button" value="Upload a Photo" class="btn btn-primary btn-lg" 
+                onclick="$('#upload').click();"/>
+                <input type="submit" id="submit" style="display:none"/>
+            }
+        </div>
+    </div>
+    <hr/>
+    <div class="row">
+        <div class="col-sm-12">
+            @foreach(var blob in ViewBag.Blobs)
+            {
+                <img src="@blob.ImageUri" title="@blob.Caption" width="192" style="padding-right: 16px; padding-bottom: 16px"/>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+   <script type="text/javascript">
+        if("@TempData["Message"]" !== "") {
+            alert("@TempData["Message"]");
+       }
+   </script>
+}

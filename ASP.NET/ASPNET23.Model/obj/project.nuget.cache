@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4cERJa+7EL/RNDjVKjLm5IUylpGRqocxAvX2+6ym135lxQzGaN0Ft2crTDbEqOjtaB4qWSPS6PpPXaLI7zkkAg==",
+  "dgSpecHash": "R58ByQc+rD9MT24N4bxd0c/1UUja0HbUnZ9U26Rpr2o48dFkh2pImGaOSiLK+4u7G3LnMYToDwEOH2gbACFN0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.Model\\ASPNET23.Model.csproj",
+  "projectFilePath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.Model\\ASPNET23.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

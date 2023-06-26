@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSPiZK.Azure", "PSPiZK.Azure\PSPiZK.Azure.csproj", "{DAAF5957-B512-4DD9-BFAC-97FBFF3F701B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAAF5957-B512-4DD9-BFAC-97FBFF3F701B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAF5957-B512-4DD9-BFAC-97FBFF3F701B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAF5957-B512-4DD9-BFAC-97FBFF3F701B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAF5957-B512-4DD9-BFAC-97FBFF3F701B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE14A0C-7A58-41BB-AD50-1B0F4BAF7045}
+	EndGlobalSection
+EndGlobal

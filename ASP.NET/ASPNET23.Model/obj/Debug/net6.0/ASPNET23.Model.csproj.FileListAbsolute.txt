@@ -12,3 +12,17 @@ C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Proje
 C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.pdb
 C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.genruntimeconfig.cache
 C:\Users\mateu\Pulpit\Studia IT\Przedmioty\Back-end [4.5]\Kompletna Wersja Projektu ASP.NET\ASP.NET\ASPNET23\ASPNET23.Model\obj\Debug\net6.0\ref\ASPNET23.Model.dll
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\bin\Debug\net6.0\ASPNET23.Model.deps.json
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\bin\Debug\net6.0\ASPNET23.Model.runtimeconfig.json
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\bin\Debug\net6.0\ASPNET23.Model.dll
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\bin\Debug\net6.0\ASPNET23.Model.pdb
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.dll
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\refint\ASPNET23.Model.dll
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.pdb
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\ASPNET23.Model.genruntimeconfig.cache
+C:\Users\mateu\source\repos\Back-end\ASP.NET\ASPNET23.Model\obj\Debug\net6.0\ref\ASPNET23.Model.dll

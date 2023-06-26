@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pfTs5RF5MoRER3ZAiuOgtlR4AB7uHP/sC/1fA6/Ovy94UkPYscbVQRyLVAjLBgwgoHzc9+PkFZAtg4PnUt+6QQ==",
+  "dgSpecHash": "CBlPbyPrtalxikVuKykp0kJ8lNGj+ZZbJ5EVfTTsXa1wDWHuhuwXXdfNdxlEOfTRs/N8k6XbUUPaakIVzp1hhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mateu\\Pulpit\\Studia IT\\Przedmioty\\Back-end [4.5]\\Kompletna Wersja Projektu ASP.NET\\ASP.NET\\ASPNET23\\ASPNET23.API\\ASPNET23.API.csproj",
+  "projectFilePath": "C:\\Users\\mateu\\source\\repos\\Back-end\\ASP.NET\\ASPNET23.API\\ASPNET23.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
